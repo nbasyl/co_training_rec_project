@@ -5,3 +5,6 @@ To run the co-training framework:
 2. sh co_training_main_yelp.sh for the yelp dataset
 
 The result will be stored in .\different_co_training_log\
+
+
+Check the COMP5331_MIXGCF (3).pdf for project detail
